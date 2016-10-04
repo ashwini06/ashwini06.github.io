@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ashwini Jeggari, Launches Site"
-date: 2014-04-30
+date: 2016-10-04
 ---
 
 This morning in a meeting session with my co-supervisor, came up with talk that - through **Github** one can create website or blog pages. 
