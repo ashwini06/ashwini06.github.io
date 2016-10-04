@@ -10,7 +10,8 @@ So after meeting when I came back to my workplace, went through this [blog](http
 
 Came to know about [jekyll](http://jekyllrb.com/docs/structure/)  - which is one of powerful statitic website generator (like wordpress)  
 
+**Summary**
 Useful links for beginner to create own webpage via github:
 
-<a href="http://jmcglone.com/guides/github-pages"> link1 </a>
-http://jekyllrb.com/docs/structure/ 
+[Link1](http://jmcglone.com/guides/github-pages)
+[Link2](http://jekyllrb.com/docs/structure/) 
