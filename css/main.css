@@ -78,13 +78,7 @@ header {
 nav {
   background: #599a68;
 }
-/* logo text */
-h1, h2 {
-  color: #fff;
-}
-a { 
-  color: #6ab47b;
-}
+
 /* nav linl */
 nav a, nav a:visited {
   color: #fff;
