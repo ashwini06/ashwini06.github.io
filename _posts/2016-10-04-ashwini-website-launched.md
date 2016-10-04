@@ -12,5 +12,5 @@ Came to know about [jekyll](http://jekyllrb.com/docs/structure/)  - which is one
 
 Useful links for beginner to create own webpage via github:
 
-http://jmcglone.com/guides/github-pages
+<a href http://jmcglone.com/guides/github-pages> link1 </a>
 http://jekyllrb.com/docs/structure/ 
