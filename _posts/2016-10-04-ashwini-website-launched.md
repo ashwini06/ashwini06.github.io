@@ -6,8 +6,13 @@ date: 2016-10-04
 
 This morning in a meeting session with my co-supervisor, came up with talk that - through **Github** one can create website or blog pages. 
 Always wanted to have my own website but never get a time to lookup how to create website pages. But today I felt to create one for me atleast a start so that I can continue editing when I have time.
-I feel its good to have one- so I can write blogs which details about my new learning from my daily work. 
-Also acts like a trace back about my own research. 
+
+**Purpose**                    
+I feel its good to have one-            
+> To write blogs which details about my new learnings from my daily work.             
+> acts like a trace back about my own research.         
+Bridges me to other people about my work.       
+
 So after meeting when I came back to my workplace, went through this [blog](http://jmcglone.com/guides/github-pages) which clearly explains what to do in a next step-by step manner. I felt its pretty clear and straight-forwarded to begin with.
 
 Came to know about [jekyll](http://jekyllrb.com/docs/structure/)  - which is one of powerful statitic website generator (like wordpress)  
