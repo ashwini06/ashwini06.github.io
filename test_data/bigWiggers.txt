@@ -1,1 +1,12 @@
 
+track type=bigWig name=H3K4me1 description=H3K4me1_vs_sonctrol ismoothingWindow=4 color=0,0,255 autoScale=off viewLimits=0:20 visibility=full windowingFunction=mean+whiskers bigDataUrl=http://research.scilifelab.se/andrej_alexeyenko/downloads/bigWig/Histone_ChiP_Replicates/wt_Rep1_H3K4me1_Run00318_vs_sonctrol_Run00322.bw
+
+
+track type=bigWig name=H3K27me3_v1 description=H3K27me3_vs_sonctrol_Run00322 ismoothingWindow=4 color=255,0,0 autoScale=off viewLimits=0:20 visibility=full windowingFunction=mean+whiskers bigDataUrl=http://research.scilifelab.se/andrej_alexeyenko/downloads/bigWig/Histone_ChiP_Replicates/wt_Rep2_H3K27me3_Run00318_vs_sonctrol_Run00322.bw
+
+
+track type=bigWig name=H3K4me3 description=H3K4me3_vs_sonctrl ismoothingWindow=4 color=0,250,0 autoScale=off viewLimits=0:20 visibility=full windowingFunction=mean+whiskers bigDataUrl=http://research.scilifelab.se/andrej_alexeyenko/downloads/bigWig/Histone_ChiP_Replicates/H3K4me3_11_3_13_Vs_sonctrl_11_3_13.bw
+
+
+track type=bigWig name=H3K27me3 description=H3K27me3_vs_sonctrl ismoothingWindow=4 color=250,40,40 autoScale=off viewLimits=0:20 visibility=full windowingFunction=mean+whiskers bigDataUrl=http://research.scilifelab.se/andrej_alexeyenko/downloads/bigWig/Histone_ChiP_Replicates/H3K27me3_11_3_13_Vs_sonctrl_11_3_13.bw
+
