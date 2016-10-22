@@ -18,4 +18,4 @@ While demonstrating ChIP-seq data in the published articles, the enrichment is s
 UCSC browser:
 [Here](https://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html#CustomTracks) describes various formats by which we can upload data to UCSC.
 
-Example: Multiple Bigwig files can be uploaded by multiple track lines in a [text file](https://github.com/ashwini06/ashwini06.github.io/blob/master/test_data/bigWiggers.txt)
+Example: Multiple Bigwig files can be uploaded by multiple track lines in one [text file](https://github.com/ashwini06/ashwini06.github.io/blob/master/test_data/bigWiggers.txt)
