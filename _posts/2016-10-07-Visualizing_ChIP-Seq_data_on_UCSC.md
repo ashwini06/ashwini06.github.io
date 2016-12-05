@@ -20,4 +20,4 @@ UCSC browser:
 
 Example:       
 **Display BigWig files**          
-Multiple Bigwig files can be uploaded by multiple track lines in one [text file](https://github.com/ashwini06/ashwini06.github.io/blob/master/test_data/bigWiggers.txt). Upon uploading the text file, ChIP signal intensities looks like [this](https://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr3%3A66552219-67402818&hgsid=552638429_xyQghRUJD6mMfpprZXIn5MSLAce4)
+Multiple Bigwig files can be uploaded by multiple track lines in one [text file](https://github.com/ashwini06/ashwini06.github.io/blob/master/test_data/bigWiggers.txt). Upon uploading the text file, ChIP signal intensities looks like [this](https://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr3%3A66552219%2D67402818&hgsid=570503913_Sa94JgoS7B45ZJZALjKgNr99XnQM)
